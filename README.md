@@ -1,5 +1,4 @@
 # sms-spam-classification 
-![Uploading WhatsApp Image 2025-04-15 at 08.42.21_5baa1a7b.jpg…]()
 
 What I accomplished : Developed and deployed a real-time SMS spam classifier web app that predicts whether a given message is "Spam" or "Ham" with over 97% accuracy.
 
